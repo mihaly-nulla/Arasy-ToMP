@@ -1,0 +1,45 @@
+Tue Oct 22 20:23:54 BRT 2024 Main Update Loop threw an exception:
+de.gurkenlabs.litiengine.resources.ResourceLoadException: javax.imageio.IIOException: Can't get input stream from URL!
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.loadResource(ResourcesContainer.java:395)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.get(ResourcesContainer.java:276)
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.get(ResourcesContainer.java:209)
+	at br.ufv.caf.ModuloInteracao.tela.TelaInventario.renderizarJanelaDeRegistros(TelaInventario.java:106)
+	at br.ufv.caf.ModuloInteracao.tela.TelaInventario.renderizarItensNaMochila(TelaInventario.java:168)
+	at br.ufv.caf.ModuloInteracao.tela.TelaInventario.render(TelaInventario.java:206)
+	at de.gurkenlabs.litiengine.graphics.RenderComponent.render(RenderComponent.java:130)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:93)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+Caused by: javax.imageio.IIOException: Can't get input stream from URL!
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1409)
+	at de.gurkenlabs.litiengine.resources.Images.load(Images.java:48)
+	at de.gurkenlabs.litiengine.resources.Images.load(Images.java:12)
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.loadResource(ResourcesContainer.java:393)
+	... 9 more
+Caused by: java.io.FileNotFoundException: /home/gutox2001/Área de trabalho/UFV/8º Período - 2024-2/CCF 495 - Computador e Sociedade/Equipe5/ArasyToMP/src/main/resources/icones/Botão Mágico.png (Arquivo ou diretório inexistente)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:189)
+	at java.base/java.net.URL.openStream(URL.java:1161)
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1407)
+	... 12 more
+
+====Runtime Information====
+Operating System: Linux
+	Architecture: amd64
+	Version: 6.8.0-47-generic
+Memory:
+	Max heap size: 2,9 GiB
+	Current heap size: 1,3 GiB
+	Heap used: 757,9 MiB
+	Free heap: 534,1 MiB
+Java Version: Java(TM) SE Runtime Environment 17.0.12+8-LTS-286 
+	Vendor: Oracle Corporation
+Uptime: PT2M48.919S
+Screens: 2
+	Screen 0: 1440x900@60hz
+	Screen 1: 1366x768
+

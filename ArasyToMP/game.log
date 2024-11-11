@@ -1,0 +1,334 @@
+Here 21, 2024 8:51:12 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:12 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:12 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:12 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:12 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:12 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:13 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:13 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:13 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:13 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:13 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:13 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:14 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:15 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:15 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:15 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:15 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:15 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:15 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:16 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:16 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:16 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaItensDaQuestAtiva()" because "sistemaControladorQuests" is null
+	at br.ufv.caf.Main$1.update(Main.java:54)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 21, 2024 8:51:16 G.M. de.gurkenlabs.litiengine.UpdateLoop update
+SEVERE: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+java.lang.NullPointerException: Cannot invoke "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegaQuestAtiva()" because the return value of "br.ufv.caf.ModuloMissoes.sistema.SistemaControladorQuests.pegarInstancia()" is null
+	at br.ufv.caf.ModuloInteracao.entidade.EntidadePersonagemPrincipal.update(EntidadePersonagemPrincipal.java:82)
+	at de.gurkenlabs.litiengine.UpdateLoop.update(UpdateLoop.java:154)
+	at de.gurkenlabs.litiengine.UpdateLoop.process(UpdateLoop.java:138)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:87)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Here 22, 2024 4:56:52 G.M. de.gurkenlabs.litiengine.resources.Sounds load
+SEVERE: The audio file file:/home/gutox2001/Área%20de%20trabalho/UFV/8º%20Período%20-%202024-2/CCF%20495%20-%20Computador%20e%20Sociedade/Equipe5/ArasyToMP/audio/SomDeColeta.wav could not be loaded.
+Here 22, 2024 4:56:52 G.M. de.gurkenlabs.litiengine.resources.Sounds load
+SEVERE: The audio file file:/home/gutox2001/Área%20de%20trabalho/UFV/8º%20Período%20-%202024-2/CCF%20495%20-%20Computador%20e%20Sociedade/Equipe5/ArasyToMP/audio/SomDeColeta.wav could not be loaded.
+Here 22, 2024 5:28:57 G.M. de.gurkenlabs.litiengine.resources.Sounds load
+SEVERE: The audio file file:/home/gutox2001/Área%20de%20trabalho/UFV/8º%20Período%20-%202024-2/CCF%20495%20-%20Computador%20e%20Sociedade/Equipe5/ArasyToMP/audio/SomDeColeta.wav could not be loaded.
+Here 22, 2024 5:28:57 G.M. de.gurkenlabs.litiengine.resources.Sounds load
+SEVERE: The audio file file:/home/gutox2001/Área%20de%20trabalho/UFV/8º%20Período%20-%202024-2/CCF%20495%20-%20Computador%20e%20Sociedade/Equipe5/ArasyToMP/audio/SomDeColeta.wav could not be loaded.
+Here 22, 2024 7:59:38 G.M. de.gurkenlabs.litiengine.resources.Sounds load
+SEVERE: The audio file file:/home/gutox2001/Área%20de%20trabalho/UFV/8º%20Período%20-%202024-2/CCF%20495%20-%20Computador%20e%20Sociedade/Equipe5/ArasyToMP/audio/SomDeColeta.wav could not be loaded.
+Here 22, 2024 8:23:55 G.M. de.gurkenlabs.litiengine.DefaultUncaughtExceptionHandler uncaughtException
+SEVERE: Game crashed! :(
+de.gurkenlabs.litiengine.resources.ResourceLoadException: javax.imageio.IIOException: Can't get input stream from URL!
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.loadResource(ResourcesContainer.java:395)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.get(ResourcesContainer.java:276)
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.get(ResourcesContainer.java:209)
+	at br.ufv.caf.ModuloInteracao.tela.TelaInventario.renderizarJanelaDeRegistros(TelaInventario.java:106)
+	at br.ufv.caf.ModuloInteracao.tela.TelaInventario.renderizarItensNaMochila(TelaInventario.java:168)
+	at br.ufv.caf.ModuloInteracao.tela.TelaInventario.render(TelaInventario.java:206)
+	at de.gurkenlabs.litiengine.graphics.RenderComponent.render(RenderComponent.java:130)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:93)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+Caused by: javax.imageio.IIOException: Can't get input stream from URL!
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1409)
+	at de.gurkenlabs.litiengine.resources.Images.load(Images.java:48)
+	at de.gurkenlabs.litiengine.resources.Images.load(Images.java:12)
+	at de.gurkenlabs.litiengine.resources.ResourcesContainer.loadResource(ResourcesContainer.java:393)
+	... 9 more
+Caused by: java.io.FileNotFoundException: /home/gutox2001/Área de trabalho/UFV/8º Período - 2024-2/CCF 495 - Computador e Sociedade/Equipe5/ArasyToMP/src/main/resources/icones/Botão Mágico.png (Arquivo ou diretório inexistente)
+	at java.base/java.io.FileInputStream.open0(Native Method)
+	at java.base/java.io.FileInputStream.open(FileInputStream.java:216)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:157)
+	at java.base/java.io.FileInputStream.<init>(FileInputStream.java:111)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.connect(FileURLConnection.java:86)
+	at java.base/sun.net.www.protocol.file.FileURLConnection.getInputStream(FileURLConnection.java:189)
+	at java.base/java.net.URL.openStream(URL.java:1161)
+	at java.desktop/javax.imageio.ImageIO.read(ImageIO.java:1407)
+	... 12 more
+
+Du 06, 2024 1:05:45 G.M. de.gurkenlabs.litiengine.DefaultUncaughtExceptionHandler uncaughtException
+SEVERE: Game crashed! :(
+java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+	at br.ufv.caf.ModuloMissoes.componente.ComponenteCorpoDopravel.render(ComponenteCorpoDopravel.java:107)
+	at br.ufv.caf.ModuloMissoes.tela.TelaQuest.render(TelaQuest.java:39)
+	at de.gurkenlabs.litiengine.gui.GuiComponent.render(GuiComponent.java:804)
+	at de.gurkenlabs.litiengine.gui.screens.GameScreen.render(GameScreen.java:27)
+	at br.ufv.caf.ModuloGeral.tela.TelaJogo.render(TelaJogo.java:51)
+	at de.gurkenlabs.litiengine.graphics.RenderComponent.render(RenderComponent.java:130)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:93)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
+Du 06, 2024 1:08:25 G.M. de.gurkenlabs.litiengine.DefaultUncaughtExceptionHandler uncaughtException
+SEVERE: Game crashed! :(
+java.lang.ArrayIndexOutOfBoundsException: Index 6 out of bounds for length 6
+	at br.ufv.caf.ModuloMissoes.componente.ComponenteCorpoDopravel.render(ComponenteCorpoDopravel.java:107)
+	at br.ufv.caf.ModuloMissoes.tela.TelaQuest.render(TelaQuest.java:39)
+	at de.gurkenlabs.litiengine.gui.GuiComponent.render(GuiComponent.java:804)
+	at de.gurkenlabs.litiengine.gui.screens.GameScreen.render(GameScreen.java:27)
+	at br.ufv.caf.ModuloGeral.tela.TelaJogo.render(TelaJogo.java:51)
+	at de.gurkenlabs.litiengine.graphics.RenderComponent.render(RenderComponent.java:130)
+	at de.gurkenlabs.litiengine.GameLoop.process(GameLoop.java:93)
+	at de.gurkenlabs.litiengine.UpdateLoop.run(UpdateLoop.java:57)
+
